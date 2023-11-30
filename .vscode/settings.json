@@ -1,0 +1,9 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "cSpell.words": [
+        "anchorelement",
+        "downloadfile",
+        "Fileprocess",
+        "urlstring"
+    ]
+}
